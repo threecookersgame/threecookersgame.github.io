@@ -1,10 +1,12 @@
-ThreeCookersGame :   Privacy Policy
-This Privacy Policy (the "Policy") describes how ThreeCookersGame :   (also referred to as "we," "us," or "our"), collects, stores, uses and protects your information when you use our app ThreeCookersGame :   from download in the Google Play Store, Apple App Store or any other third party app store, or are pre-installed on third party devices (the "Apps"), or any other websites, pages, features, or content owned or operated by Potato Games Studio (collectively, including the Site and Apps, the "Services").
+Piano Tiles,Music Hop Privacy Policy
+This Privacy Policy (the "Policy") describes how Piano Tiles,Music Hop (also referred to as "we," "us," or "our"), collects, stores, uses and protects your information when you use our app Piano Tiles,Music Hop from download in the Google Play Store, Apple App Store or any other third party app store, or are pre-installed on third party devices (the "Apps"), or any other websites, pages, features, or content owned or operated by Potato Games Studio (collectively, including the Site and Apps, the "Services").
 
 Information Collection
 
 In this Policy, the term "personal information" includes any information that identifies or makes an individual identifiable. When you access or use our Services, we may generally collect the personal information from you when you register on our App or enter information on our App.
 
+
+Consent Revocation: Users in the EEA (European Economic Area) and the UK who consented to personalized ads can withdraw your consent by clicking the Personalized Ads button in the App Setting.
 
 How do we use your information?
 
@@ -26,8 +28,14 @@ The Services may include links to third-party websites and social media services
 How do we protect your information?
 
 We are committed to ensuring the security of your personal information. We have physical, technical and administrative safeguards in place to protect the confidentiality of your personal information. In addition, we require that our service providers handling personal information also maintain appropriate physical, technical and administrative safeguards to protect the security and confidentiality of the personal information you provide to us.
+
+
 However, we cannot guarantee the security of your personal information or that loss, misuse, unauthorized acquisition, or alteration of your data will not occur. We also have no way of protecting any of your personal information that is not in our control, such as any information transmitted via email or wireless connections.
+
+
 Maintaining the security of your personal information is also your responsibility. Where we require you to register an account, you should choose a password of sufficient length and complexity and keep your password confidential. Do not leave your device unlocked so that other individuals may access it. Make sure you trust the wireless connections you are using to access or use our Services.
+
+
 
 
 Third-party disclosure
@@ -47,7 +55,7 @@ If any producer or label has an issue with any of the music used in the game, pl
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-ThreeCookersGame
-youuhakuga@gmail.com
+Piano Tiles,Music Hop
+contact@3 cookers game studio
 
-October 20, 2023
+April 6, 2022
