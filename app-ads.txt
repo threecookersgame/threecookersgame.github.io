@@ -1,5 +1,6 @@
 #Google
 google.com, pub-9711819632689866, DIRECT, f08c47fec0942fa0
+google.com, pub-1091686516902576, DIRECT, f08c47fec0942fa0
 
 #iion
 iion.io, 10167, DIRECT, 013a29748465dc57
